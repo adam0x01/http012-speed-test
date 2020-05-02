@@ -2,5 +2,5 @@
 
 ## Pages available at
 - HTTP/1.0 http://h0.adamliu.net/
-- HTTP/1.1 http://h0.adamliu.net/
-- HTTP/2.0 http://h0.adamliu.net/
+- HTTP/1.1 http://h1.adamliu.net/
+- HTTP/2.0 http://h2.adamliu.net/
